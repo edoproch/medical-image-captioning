@@ -9,5 +9,5 @@ In the folder the following files are present:
   This notebook was used to generate the resized images and the feature vectors of train,test and validation sets. 
 - Medical\_Image\_Captioning.pdf 
   This is the report of the project
-- description\of\work.pdf
+- description\_of\_work.pdf
   This is the project specification given by the professor.
