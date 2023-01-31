@@ -1,5 +1,6 @@
 # medical-image-captioning
-This is a NLP project done during my Erasmus in Oulu for the subject "Natural Language Processing and text mining"
+This is a NLP project done during my Erasmus in Oulu for the subject "Natural Language Processing and text mining".
+The aim of the project was to use an encoder-decoder deep learning architecture to give a description to some medical images. 
 
 
 In the folder the following files are present: 
@@ -11,3 +12,6 @@ In the folder the following files are present:
   This is the report of the project
 - description\_of\_work.pdf
   This is the project specification given by the professor.
+  
+## Authors
+Edoardo Procino, Alessandro Calò
